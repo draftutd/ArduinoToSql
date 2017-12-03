@@ -1,0 +1,3 @@
+PHPMyAdmin
+ID root
+PASSWORD password
